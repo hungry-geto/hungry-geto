@@ -7,6 +7,6 @@
 </p>
 
   
-&nbsp; <p align="center"> [<img width="178" height="149" alt="image" src="https://github.com/user-attachments/assets/1e1e84e9-f5f0-488a-ad17-640630498605" />](https://arlechino.atabook.org/) [>](https://genshinuid.straw.page/)  
+&nbsp; <p align="center"> [<img width="178" height="149" alt="image" src="https://github.com/user-attachments/assets/1e1e84e9-f5f0-488a-ad17-640630498605" />](https://suguru-geto.atabook.org/) [>](https://genshinuid.straw.page/)  
   
   
