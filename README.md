@@ -1,3 +1,7 @@
+ <div align="center">  
+<img width="914" height="137" alt="image" src="https://github.com/user-attachments/assets/17b8f66c-45c1-42a4-a7a3-a2935781e4de" />
+
+
 <p align="center">   ${{\color{#558d9d} ♡ *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚ }}$ 
  <div align="center">  
 <img width="229" height="495" alt="image" src="https://github.com/user-attachments/assets/b2b84863-8669-4c1b-8c6b-911bc90d2d98" />
