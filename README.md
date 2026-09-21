@@ -15,5 +15,7 @@
   
 &nbsp; <p align="center"> [<img width="178" height="149" alt="image" src="https://github.com/user-attachments/assets/1e1e84e9-f5f0-488a-ad17-640630498605" />](https://suguru-geto.atabook.org/) [<img width="193" height="154" alt="image" src="https://github.com/user-attachments/assets/56932ffe-fb59-4c0e-b2a9-4648be865f11" />
 ](https://setup2.straw.page/)  
-  
-  
+
+   <div align="center">  
+  <img width="585" height="417" alt="image" src="https://github.com/user-attachments/assets/ff86d66c-5d4f-4ce6-8da9-af1d68688789" />
+
