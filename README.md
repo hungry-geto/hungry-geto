@@ -1,5 +1,6 @@
  <div align="center">  
-<img width="914" height="137" alt="image" src="https://github.com/user-attachments/assets/17b8f66c-45c1-42a4-a7a3-a2935781e4de" />
+<img width="910" height="109" alt="image" src="https://github.com/user-attachments/assets/0c3c8233-d147-4d33-8955-8c38d15a7b7a" />
+
 
 
 <p align="center">   ${{\color{#558d9d} ♡ *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚ }}$ 
