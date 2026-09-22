@@ -1,10 +1,26 @@
 <p align="center">   ${{\color{#558d9d} ♡ *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚ }}$ 
+
+
+ <div align="center">
+<details>
+  <summary>$$\color{#558d9d}\text{my\ good friendz at jjk area}$$</summary>
+  <br>
+ <p align ="center"> 
+ ${{\color{#678198} - }}$ 
+   <a href="https://github.com/suncolored">suncolored </a>  ${{\color{#678198} - }}$  <a href="https://github.com/HIGUGETO"> HIGUGETO</a> ${{\color{#678198} - more soon?}}$ 
+</p>
+    </th>
+  </tr>
+  </table>
+</details>
+</div>
+
  
  <div align="center">
 <details>
   <summary>$$\color{#558d9d}\text{𝘀𝗺𝗮𝗹𝗹\ 𝗯𝘆𝗶}$$</summary>
   <br>
-  
+ 
   <div align="center">
   <table>
   <tr>
