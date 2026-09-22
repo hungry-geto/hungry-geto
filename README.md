@@ -39,7 +39,9 @@
 <p align="center">   ${{\color{#558d9d} ♡ *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚ }}$ 
  
  <div align="center">  
-<img width="229" height="495" alt="image" src="https://github.com/user-attachments/assets/b2b84863-8669-4c1b-8c6b-911bc90d2d98" />
+<img width="229" height="495" alt="image" src="https://github.com/user-attachments/assets/b2b84863-8669-4c1b-8c6b-911bc90d2d98" /> <img width="174" height="520" alt="image" src="https://github.com/user-attachments/assets/261d6778-ec80-46dc-b836-a1d344593992" />
+
+
 
   <p align="center">   ${{\color{#558d9d} ♡ *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚ }}$ 
    
