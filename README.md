@@ -9,15 +9,8 @@
   <table>
   <tr>
     <th>
-      $\color{558d9d}\normalsize{\texttt{ℍ𝕚, 𝕀𝕞 𝕥𝕠𝕗𝕦 𝕠𝕣 𝕊𝕦𝕤𝕙𝕚, 𝕀'𝕞 𝕟𝕠𝕣𝕞𝕒𝕝𝕝𝕪 𝕒𝕗𝕜 𝕠𝕣 𝕥𝕒𝕝𝕜𝕚𝕟𝕘 𝕥𝕠 𝕗𝕣𝕚𝕖𝕟𝕕𝕤}}$ <br>
-      $\color{558d9d}\normalsize{\texttt{𝔹𝕦𝕥 𝕤𝕠𝕞𝕖𝕥𝕚𝕞𝕖𝕤 𝕀 𝕒𝕞 𝕠𝕟 𝕕𝕟𝕚 𝕠𝕣 𝕕𝕟𝕚𝕦𝕘𝕗 / 𝕗𝕣𝕚𝕖𝕟𝕕 , 𝕥𝕙𝕒𝕥 𝕞𝕠𝕤𝕥𝕝𝕪 𝕞𝕖𝕒𝕟𝕤 𝕀 𝕒𝕞 𝕚𝕟 𝕡𝕒𝕚𝕟}}$ <br>
-      $\color{558d9d}\normalsize{\texttt{𝕆𝕣 𝕦𝕟𝕨𝕖𝕝𝕝, 𝕀 𝕟𝕠𝕣𝕞𝕒𝕝𝕝𝕪 𝕒𝕞 𝕚𝕟 𝕡𝕒𝕚𝕟, 𝕓𝕦𝕥 𝕀 𝕜𝕖𝕖𝕡 𝕥𝕙𝕒𝕥 𝕥𝕠 𝕞𝕪 𝕤𝕖𝕝𝕗.}}$ <br>
-      $\color{558d9d}\normalsize{\texttt{I do respond slowly, i am sorry, I am trying my best.}}$ <br>
-      $\color{558d9d}\normalsize{\texttt{I am on at 7am to 12pm or 4 pm to 11pm. I live in Australia (AEST) zone}}$ <br>
-     $\color{558d9d}\normalsize{\texttt{I have social anxiety now, I use to be a social butterfly!}}$ <br>
-      $\color{558d9d}\normalsize{\texttt{Sometimes i might talk, if im with my gal, or with the right friends}}$ <br>
-      $\color{558d9d}\normalsize{\texttt{Find me at the; Animal Hospital . Jjk - Genshin Impact - TMNT area}}$ <br>
-     <p align="center">
+    <img width="540" height="281" alt="image" src="https://github.com/user-attachments/assets/07f71f78-0186-45cc-86bb-42956664c4fd" />
+<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316x3ee2a73zalu7xvgh2gde5jxa&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316x3ee2a73zalu7xvgh2gde5jxa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
   </a>
