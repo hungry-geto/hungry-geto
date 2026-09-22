@@ -17,6 +17,11 @@
      $\color{558d9d}\normalsize{\texttt{I have social anxiety now, I use to be a social butterfly!}}$ <br>
       $\color{558d9d}\normalsize{\texttt{Sometimes i might talk, if im with my gal, or with the right friends}}$ <br>
       $\color{558d9d}\normalsize{\texttt{Find me at the; Animal Hospital . Jjk - Genshin Impact - TMNT area}}$ <br>
+     <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316x3ee2a73zalu7xvgh2gde5jxa&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316x3ee2a73zalu7xvgh2gde5jxa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
     </th>
   </tr>
   </table>
@@ -45,10 +50,4 @@
 
   <p align="center">   ${{\color{#558d9d} ♡ *ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚ }}$ 
    
-   <div align="center">  
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316x3ee2a73zalu7xvgh2gde5jxa&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316x3ee2a73zalu7xvgh2gde5jxa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
-  </a>
-</p>
-
 
